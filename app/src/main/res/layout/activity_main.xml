@@ -13,4 +13,15 @@
         android:text="Hello World!"
         android:textSize="42sp" />
 
+    <EditText
+        android:id="@+id/editTextPersonalName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:fontFamily="cursive"
+        android:hint="name"
+        android:inputType="textPersonName"
+        android:text="Name"
+        android:textSize="42sp" />
+
 </LinearLayout>
