@@ -33,4 +33,13 @@
         android:inputType="phone"
         android:textSize="35sp" />
 
+    <EditText
+        android:id="@+id/editTextNumber"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="enter number"
+        android:inputType="number"
+        android:textSize="35sp" />
+
 </LinearLayout>
