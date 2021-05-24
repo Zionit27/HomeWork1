@@ -51,4 +51,13 @@
         android:inputType="textPassword"
         android:textSize="35sp" />
 
+    <EditText
+        android:id="@+id/editTextEmailAddress"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="enter email"
+        android:inputType="textEmailAddress"
+        android:textSize="35sp" />
+
 </LinearLayout>
